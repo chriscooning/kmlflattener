@@ -1,5 +1,3 @@
-"""kmlflatten.py: reads a KML file as text, and strips out all Folder tags except the first and last.  usage: python kmlflatten.py IN [OUT]"""
-
 import os
 import sys
 
